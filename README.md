@@ -1,6 +1,6 @@
 SQL_Optimized <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Contains SQL queries and their optimized versions (using indexing and CTEs) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;Time breakdown analysis of parts of the queries and how much time they took to run -> used to guide optimization decisions  
+&nbsp;&nbsp;&nbsp;&nbsp;Time breakdown analysis of parts of the queries and their runtimes -> used to guide optimization decisions  
 
 T4_sundar  
 &nbsp;&nbsp;&nbsp;&nbsp;Created a server on pgadmin housed on AWS's Redshift and inserted data using PostGreSQL  
