@@ -1,4 +1,5 @@
-SQL_Optimized &nbsp;&nbsp;&nbsp;&nbsp;Contains SQL queries and their optimized versions (using indexing and CTEs)  
+SQL_Optimized <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Contains SQL queries and their optimized versions (using indexing and CTEs) <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Time breakdown analysis of parts of the queries and how much time they took to run -> used to guide optimization decisions  
 
 T4_sundar  
